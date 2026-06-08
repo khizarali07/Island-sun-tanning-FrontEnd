@@ -25,6 +25,7 @@ This is the front-end of the Island Sun Tanning web application, built with Reac
 - **React Signature Canvas:** For capturing digital signatures.
 - **ESLint:** For code linting and maintaining code quality.
 
+h
 ## Getting Started
 
 ### Prerequisites
